@@ -1,0 +1,6 @@
+{
+  "name": "NusantaraHub - Marketplace & Kurir Terpadu",
+  "description": "Platform Web Terpadu Marketplace Jual-Beli dan Logistik Kurir On-Demand Indonesia dengan Arsitektur 6 UI State, Akun Terpadu RBAC, dan Validasi Komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
